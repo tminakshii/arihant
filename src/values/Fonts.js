@@ -1,0 +1,8 @@
+// export const IsidoraBlack='isidorasans-black-webfont'
+export const IsidoraBlack='IsidoraSans-Black'
+export const IsidoraBold='IsidoraSans-Bold'
+export const IsidoraLight='IsidoraSans-Light'
+export const IsidoraMedium='IsidoraSans-Medium'
+export const IsidoraRegular='IsidoraSans-Regular'
+export const IsidoraSemiBold='IsidoraSans-SemiBold'
+// export const newfonnt='IsidoraSansAlt-Medium'

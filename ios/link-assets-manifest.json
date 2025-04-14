@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/IsidoraSans-Black.ttf",
+      "sha1": "f646f4fd5fed0aca8c2546f5fa1e7622cf77ca1a"
+    },
+    {
+      "path": "src/assets/fonts/IsidoraSans-Bold.ttf",
+      "sha1": "b47770548edd6fde9489018c753a92493d16a329"
+    },
+    {
+      "path": "src/assets/fonts/IsidoraSans-Light.ttf",
+      "sha1": "91f07d9f3698e9ada1ed29f4f737145077b5aa30"
+    },
+    {
+      "path": "src/assets/fonts/IsidoraSans-Medium.ttf",
+      "sha1": "6b998fbec1c006ce25443422b7da02c41ab0d8f1"
+    },
+    {
+      "path": "src/assets/fonts/IsidoraSans-Regular.ttf",
+      "sha1": "506526d5dda7ff0c55574f644e9b973cdde9a766"
+    },
+    {
+      "path": "src/assets/fonts/IsidoraSans-SemiBold.ttf",
+      "sha1": "9716a2b9cf751304ab779d5e36f0f61d744a9c46"
+    },
+    {
+      "path": "src/assets/fonts/IsidoraSans-Thin.ttf",
+      "sha1": "94364d99481eefb447d0b193edb75973cde67386"
+    }
+  ]
+}
